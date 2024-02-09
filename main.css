@@ -1,5 +1,5 @@
 body {
-  background-image: https://dxlmods.github.io/storage/background.jpg;
+  background-image: url(https://dxlmods.github.io/storage/background.jpg);
   background-color:#000000;
 }
 .center {
