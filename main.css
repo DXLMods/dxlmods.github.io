@@ -1,3 +1,7 @@
+body {
+  background-image: https://dxlmods.github.io/storage/background.jpg
+  background-color:#000000;
+}
 .center {
   display: block;
   margin-left: auto;
