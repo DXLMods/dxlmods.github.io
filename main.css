@@ -5,3 +5,6 @@ body {
 img {
   padding:10px;
 }
+p {
+  font-style:italic;
+}
